@@ -6,6 +6,8 @@ import GlobalStyles from './styles/global';
 import Header from './components/header/Header';
 import Routes from './routes';
 
+import './config/ReactotronConfig';
+
 import store from './store';
 
 function App() {

@@ -30,5 +30,6 @@ module.exports = {
     'react/static-property-placement': 'off',
     'react/sort-comp': 'off',
     'no-console': 'off',
+    'no-param-reassign': 'off',
   },
 };
